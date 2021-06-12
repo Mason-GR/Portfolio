@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+
+body{
+    color: black;
+    text-align: center;
+}
+
+
+p{
+    text-align: center;
+}
+
+.Profile {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+img {
+    text-align: center;
+    size: 15%;
+}
